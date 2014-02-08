@@ -1,0 +1,5 @@
+python-savannaclient (0.4.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #738160).
+
+ -- Thomas Goirand <zigo@debian.org>  Sat, 08 Feb 2014 16:19:27 +0800
