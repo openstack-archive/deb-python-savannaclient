@@ -1,0 +1,14 @@
+Code-Review+2: Vitaly Gridnev <vgridnev@mirantis.com>
+Code-Review+1: Telles Mota Vidal Nóbrega <tenobreg@redhat.com>
+Code-Review+1: Jinxing Fang <fang.jinxing@99cloud.net>
+Code-Review+1: lu huichun <huichun.lu@intel.com>
+Code-Review+1: Chad Roberts <croberts@redhat.com>
+Code-Review+2: Elise Gafford <egafford@redhat.com>
+Code-Review+2: Michael McCune <msm@redhat.com>
+Workflow+1: Michael McCune <msm@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 22 Dec 2015 22:19:05 +0000
+Reviewed-on: https://review.openstack.org/254136
+Project: openstack/deb-python-savannaclient
+Branch: refs/heads/master

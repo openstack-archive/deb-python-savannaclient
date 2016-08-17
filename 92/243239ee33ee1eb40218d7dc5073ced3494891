@@ -1,0 +1,10 @@
+Code-Review+2: Vitaly Gridnev <vgridnev@mirantis.com>
+Code-Review+1: Andrey Pavlov <apavlov@mirantis.com>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Workflow+1: Sergey Lukjanov <slukjanov@mirantis.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 16 Oct 2015 16:32:35 +0000
+Reviewed-on: https://review.openstack.org/235216
+Project: openstack/deb-python-savannaclient
+Branch: refs/heads/master

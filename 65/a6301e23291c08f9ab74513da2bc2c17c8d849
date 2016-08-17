@@ -1,0 +1,12 @@
+Verified+2: Jenkins
+Code-Review+1: Michael McCune <msm@redhat.com>
+Code-Review+2: Matthew Farrellee <matt@redhat.com>
+Code-Review+2: Andrew Lazarev <alazarev@mirantis.com>
+Code-Review+1: Yaroslav Lobankov <ylobankov@mirantis.com>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Workflow+1: Sergey Lukjanov <slukjanov@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 30 Apr 2014 11:34:00 +0000
+Reviewed-on: https://review.openstack.org/89371
+Project: openstack/deb-python-savannaclient
+Branch: refs/heads/master

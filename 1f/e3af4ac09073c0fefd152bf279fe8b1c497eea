@@ -1,0 +1,10 @@
+Code-Review+2: Sergey Reshetnyak <sreshetniak@mirantis.com>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Workflow+1: Sergey Lukjanov <slukjanov@mirantis.com>
+Verified-1: Sahara Hadoop Cluster CI <elastic-hadoop-ci@mirantis.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 31 Jul 2015 07:42:19 +0000
+Reviewed-on: https://review.openstack.org/194995
+Project: openstack/deb-python-savannaclient
+Branch: refs/heads/master

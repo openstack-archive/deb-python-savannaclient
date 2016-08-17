@@ -1,0 +1,10 @@
+Code-Review+2: Matthew Farrellee <matt@redhat.com>
+Code-Review+2: John Speidel <jspeidel@hortonworks.com>
+Code-Review+2: Alexander Ignatov <aignatov@mirantis.com>
+Workflow+1: Alexander Ignatov <aignatov@mirantis.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 10 Feb 2014 17:51:38 +0000
+Reviewed-on: https://review.openstack.org/72166
+Project: openstack/deb-python-savannaclient
+Branch: refs/heads/master

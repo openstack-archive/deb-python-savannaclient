@@ -1,0 +1,13 @@
+Code-Review+2: Matthew Farrellee <matt@redhat.com>
+Code-Review+1: Andreas Jaeger <jaegerandi@gmail.com>
+Workflow+1: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+1: Chad Roberts <croberts@redhat.com>
+Code-Review+2: Andrew Lazarev <alazarev@mirantis.com>
+Code-Review+1: Michael McCune <msm@redhat.com>
+Code-Review+1: Trevor McKay <tmckay@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 13 Mar 2014 20:25:33 +0000
+Reviewed-on: https://review.openstack.org/79933
+Project: openstack/deb-python-savannaclient
+Branch: refs/heads/master

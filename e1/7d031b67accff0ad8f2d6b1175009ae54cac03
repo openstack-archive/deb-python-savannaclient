@@ -1,0 +1,12 @@
+Code-Review+2: Alexander Ignatov <aignatov@mirantis.com>
+Code-Review+1: Pierre Padrixe (stannie) <pierre.padrixe@gmail.com>
+Code-Review+2: Andrew Lazarev <alazarev@mirantis.com>
+Code-Review+2: Trevor McKay <tmckay@redhat.com>
+Workflow+1: Trevor McKay <tmckay@redhat.com>
+Verified+1: Sahara Hadoop Cluster CI <elastic-hadoop-ci@mirantis.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 10 Oct 2014 18:51:46 +0000
+Reviewed-on: https://review.openstack.org/125945
+Project: openstack/deb-python-savannaclient
+Branch: refs/heads/master

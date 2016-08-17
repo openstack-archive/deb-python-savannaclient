@@ -1,0 +1,16 @@
+Code-Review+2: Michael McCune <msm@redhat.com>
+Verified+1: Sahara Hadoop Cluster CI <elastic-hadoop-ci@mirantis.com>
+Code-Review+1: Elise Gafford <egafford@redhat.com>
+Code-Review+2: Trevor McKay <tmckay@redhat.com>
+Code-Review+2: Andrew Lazarev <alazarev@mirantis.com>
+Code-Review+1: Jacob Bin Wang <wangbin@awcloud.com>
+Code-Review+1: Vitaly Gridnev <vgridnev@mirantis.com>
+Code-Review+1: Andrey Pavlov <apavlov@mirantis.com>
+Code-Review+2: Sergey Reshetnyak <sreshetniak@mirantis.com>
+Workflow+1: Sergey Reshetnyak <sreshetniak@mirantis.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 05 Feb 2015 14:54:55 +0000
+Reviewed-on: https://review.openstack.org/153011
+Project: openstack/deb-python-savannaclient
+Branch: refs/heads/master
