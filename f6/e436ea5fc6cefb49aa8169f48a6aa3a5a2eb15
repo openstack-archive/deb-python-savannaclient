@@ -1,0 +1,8 @@
+Code-Review+2: Thomas Goirand <thomas@goirand.fr>
+Workflow+1: Thomas Goirand <thomas@goirand.fr>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 18 Apr 2017 19:27:45 +0000
+Reviewed-on: https://review.openstack.org/457337
+Project: openstack/deb-python-savannaclient
+Branch: refs/heads/master
